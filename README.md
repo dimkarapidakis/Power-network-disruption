@@ -25,6 +25,3 @@ A directed, weighted transfer network of 120 wards and 420 links. Two network fe
 
 The network features removed all 6 false alarms; 5 of the 12 later clusters were still missed. The data are synthetic and the test set is small: this shows an association, not that transfers cause clusters.
 
-## Running
-
-Open the notebook in Jupyter or Google Colab and run all cells. Requires `pandas`, `numpy`, `networkx`, `scikit-learn`, `matplotlib`.
