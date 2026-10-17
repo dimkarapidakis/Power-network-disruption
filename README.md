@@ -8,8 +8,8 @@ For wards without an active infection cluster, do patient transfers recorded in 
 
 | File | What it is |
 |---|---|
-| `Option1_Hospital_Infection_Control_SOLUTION_Claude.ipynb` | The completed notebook, all cells run, portfolio summary at the top |
-| `Option1_Hospital_Infection_Control_SOLUTION_Claude.html` | The same notebook as a web page |
+| `Option1_Hospital_Infection_Control_SOLUTION.ipynb` | The completed notebook, all cells run, portfolio summary at the top |
+| `Option1_Hospital_Infection_Control_SOLUTION.html` | The same notebook as a web page |
 | `hospital_wards.csv`, `hospital_transfers.csv` | The synthetic course data, so the notebook runs offline |
 
 ## Method
